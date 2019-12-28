@@ -1,0 +1,7 @@
+Options -Indexes
+
+<Files ~ "\.sql$">
+Order allow,deny
+Deny from all
+</Files>
+

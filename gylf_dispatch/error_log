@@ -1,0 +1,4 @@
+[29-Mar-2018 15:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mikehsch/public_html/gylf_dispatch/link.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mikehsch/public_html/gylf_dispatch/link.inc.php on line 3
